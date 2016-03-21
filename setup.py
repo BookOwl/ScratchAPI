@@ -30,7 +30,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
     name='scratchapi',
 
-    version='1.0.0',
+    version='1.1.0',
 
     description='ScratchAPI is a Scratch API interface written in Python',
     long_description=long_description,
